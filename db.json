@@ -1,0 +1,46 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "first_name": "Shanda",
+      "last_name": "Capeling",
+      "email": "scapeling0@hud.gov",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "first_name": "Ileane",
+      "last_name": "Barbary",
+      "email": "ibarbary1@ted.com",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "first_name": "Wilden",
+      "last_name": "Pothergill",
+      "email": "wpothergill2@phoca.cz",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "first_name": "Claiborne",
+      "last_name": "Anslow",
+      "email": "canslow3@exblog.jp",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "first_name": "Sashenka",
+      "last_name": "Torrecilla",
+      "email": "storrecilla4@oaic.gov.au",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "first_name": "Jessy",
+      "last_name": "Dinnies",
+      "email": "jdinnies5@zimbio.com",
+      "gender": "Male"
+    }
+  ]
+}
